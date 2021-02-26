@@ -1,2 +1,0 @@
-1. Create folder work using terminal
-2. Create some .txt files using gedit/notepadqq
