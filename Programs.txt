@@ -1,0 +1,4 @@
+Hello world! I recommend you to install some useful programs on your Linux:
+notepadqq
+vim
+scidavis
